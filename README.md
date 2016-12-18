@@ -8,7 +8,7 @@ A fresher design for the Google Chrome Mac Icon.
 
 ### Usage
 
-- Download the [app.icns](https://github.com/licatajustin/google-chrome-icon/raw/master/assets/app.icns_) file from the repostiroy.
+- Download the [app.icns](https://github.com/licatajustin/google-chrome-icon/raw/master/assets/app.icns) file from the repostiroy.
 - [Follow these instructions](https://support.apple.com/kb/PH13922?locale=en_US) to update the icon in the Google Chrome app.
 
 ### License
