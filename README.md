@@ -4,7 +4,9 @@ A fresher design for the Google Chrome Mac Icon.
 
 ---
 
-![Screenshot](https://raw.githubusercontent.com/licatajustin/google-chrome-icon/master/assets/screenshot.png)
+![Icon](https://raw.githubusercontent.com/licatajustin/google-chrome-icon/master/assets/icon.png)
+
+![In Dock](https://raw.githubusercontent.com/licatajustin/google-chrome-icon/master/assets/screenshot.png)
 
 ### Usage
 
